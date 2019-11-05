@@ -7,6 +7,7 @@ Movies child class header file
 #include "Media.h"
 #include<iostream>
 #include<cstring>
+#include <cstdlib>
 using namespace std;
 
 class Movies : public Media{
