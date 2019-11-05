@@ -2,6 +2,7 @@
 Media parent class .cpp file
  */
 #include <iostream>
+#include <cstdlib>
 #include "Media.h"
 //#include "Music.h"
 using namespace std;
