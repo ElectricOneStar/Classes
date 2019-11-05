@@ -6,6 +6,7 @@ video games child class header file
 #include "Media.h"
 #include <iostream>
 #include <cstring>
+#include <cstdlib>
 using namespace std;
 
 class videoGames : public Media{
