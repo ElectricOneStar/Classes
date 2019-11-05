@@ -4,6 +4,7 @@ Music child class .cpp file
 #include "Music.h"
 //#include "Media.h"
 #include<iostream>
+#include <cstdlib>
 #include<cstring>
 //#include "Media.h"
 using namespace std;
