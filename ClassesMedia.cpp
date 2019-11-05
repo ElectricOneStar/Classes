@@ -2,6 +2,7 @@
 Classes by Andrew Thomas 11/5/19 Mr.Galbraith C++/Data Structures Semester 2 P3.
  This is the main class and it is a database of different types of media(parent class). The types of media include video games, music, and movies and they each separate child classes. There are 3 functions ADD, SEARCH, DELETE. ADD, adds a media and its information to the vector of media pointers. SEARCH searches the database for media that matches the inputted title or year. And Delete deletes the media that matches the inputed title or year.
  */
+#include <cstdlib>
 #include <iostream> // including other classes and libraries
 #include "Media.h"
 #include "videoGames.h"
