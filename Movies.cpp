@@ -2,6 +2,7 @@
 Movies child class .cpp file
  */
 #include <iostream>
+#include <cstdlib>
 #include "Movies.h"
 #include <cstring>
 using namespace std;
