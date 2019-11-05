@@ -2,6 +2,7 @@
 video games child class .cpp file
  */
 #include <iostream>
+#include <cstdlib>
 #include "videoGames.h"
 #include <cstring>
 using namespace std;
